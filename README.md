@@ -30,3 +30,11 @@ const App = props => (
 )
 ```
 
+
+## Example
+```bash
+$ cd example
+$ yarn
+$ yarn start
+```
+
